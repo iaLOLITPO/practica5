@@ -1,2 +1,0 @@
-# practica5
-tarea
